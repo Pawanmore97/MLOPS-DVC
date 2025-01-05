@@ -1,0 +1,6 @@
+outs:
+- md5: 9c2081d7a17f08bd5277f70ce6dfc793.dir
+  size: 1061303
+  nfiles: 3
+  hash: md5
+  path: s3
